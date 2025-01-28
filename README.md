@@ -1,10 +1,11 @@
 
 # FA205_Workshop_7
 
-Website link: [https://mremily9.github.io/workshop-task-7/]
+Website link: https://mremily9.github.io/workshop-task-7/
 
-This workshop task was done by forking from this repo: [https://github.com/whosaidthat-3636/Workshop-0?tab=readme-ov-file]
-The original website link: [https://whosaidthat-3636.github.io/Workshop-0/]
+This workshop task was done by forking from this repo: https://github.com/whosaidthat-3636/Workshop-0?tab=readme-ov-file
+
+The original website link: https://whosaidthat-3636.github.io/Workshop-0/
 
 # Overview
 - Looked into learning about objects and classes
